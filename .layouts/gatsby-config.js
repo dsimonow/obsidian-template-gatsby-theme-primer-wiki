@@ -1,5 +1,5 @@
 const path = require("path");
-const pathPrefix = "/";
+const pathPrefix = "/obsidian-template-gatsby-theme-primer-wiki/";
 const siteMetadata = {
   title: "Obsidian Template for Gatsby Theme Primer Wiki",
   shortName: "Wiki",
