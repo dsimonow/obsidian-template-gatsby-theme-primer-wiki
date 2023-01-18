@@ -1,0 +1,7 @@
+{
+  "enableRis": true,
+  "enableRir": true,
+  "enableFas": true,
+  "enableFar": true,
+  "aliasMapping": "2Action=fas:AngleDoubleRight\nreaction=ris:ArrowGoForward\n1Action=fas:AngleRight\nfreeAction=rir:ArrowRightCircle"
+}

@@ -1,0 +1,4 @@
+## [Stupefied](https://2e.aonprd.com/Conditions.aspx?ID=37)
+
+**Source** [_Core Rulebook pg. 622_](https://paizo.com/products/btq01y0k?Pathfinder-Core-Rulebook) [2.0](https://2e.aonprd.com/Sources.aspx?ID=1)  
+Your thoughts and instincts are clouded. Stupefied always includes a value. You take a status penalty equal to this value on Intelligence-, Wisdom-, and Charisma-based checks and DCs, including Will saving throws, spell attack rolls, spell DCs, and skill checks that use these ability scores. Any time you attempt to Cast a Spell while stupefied, the spell is disrupted unless you succeed at a flat check with a DC equal to 5 + your stupefied value.

@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "b48de1e6ac0fa01b",
+    "type": "split",
+    "children": [
+      {
+        "id": "873ba95751fd69f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PnP/Little Trouble in Big Absalom/Adventure/Die Gruft.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "954800b09f604e0f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "64ad91d0814fec66",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "52b04e0c865135bc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c8c0f16688daaa55",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a750fa46d565feb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d0aed2edc5ce0ed6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "PnP/Little Trouble in Big Absalom/Adventure/Die Gruft.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "873ba95751fd69f0",
+  "lastOpenFiles": [
+    "PnP/Little Trouble in Big Absalom/Adventure/Die Gruft.md",
+    "PnP/Little Trouble in Big Absalom/Foes/blitzkäfer.md",
+    "Daily/27-05-2022.md",
+    "PnP/Little Trouble in Big Absalom/Adventure/Nach Oben!.md",
+    "PnP/Little Trouble in Big Absalom/Foes/Pilzlesnik.md",
+    "PnP/Little Trouble in Big Absalom/Adventure/Keller.png",
+    "PnP/Little Trouble in Big Absalom/Adventure/z3u0oh0ndnj51.webp",
+    "PnP/Little Trouble in Big Absalom/Adventure/d8t8vp0ndnj51.webp",
+    "Studium/Projektarbeit/Verwendeter Stack.md",
+    "Studium/Projektarbeit/Umsetzung.md"
+  ]
+}

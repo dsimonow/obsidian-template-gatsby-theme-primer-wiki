@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "b48de1e6ac0fa01b",
+    "type": "split",
+    "children": [
+      {
+        "id": "28f427b49e249183",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PnP/Plaguestone/Adventure/The blighted Den.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ceac2e9d8e2431b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "22e320e6f65a7b8a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "39fabad02f81d6ca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fa27513b64eaf0a7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "69cab0447d3b7e13",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "e3902c1f86e90bf5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "PnP/Plaguestone/Adventure/The blighted Den.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "28f427b49e249183",
+  "lastOpenFiles": [
+    "PnP/Plaguestone/Adventure/The blighted Den.md",
+    "Daily/16-04-2022.md",
+    "PnP/DB/Actions/Sneak.md",
+    "PnP/Plaguestone/NPC/Hallod.md",
+    "PnP/DB/Juggernaut Mutagen.md",
+    "Daily/02-04-2022.md",
+    "PnP/Plaguestone/Etran's Torheit.md",
+    "PnP/DB/Healing Potion.md",
+    "PnP/Plaguestone/NPC/Untitled.md",
+    "PnP/Plaguestone/NPC/Untitled 1 1.md"
+  ]
+}
