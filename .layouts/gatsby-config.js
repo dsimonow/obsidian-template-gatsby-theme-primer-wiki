@@ -11,7 +11,7 @@ const siteMetadata = {
 };
 module.exports = {
   siteMetadata,
-  pathPrefix,
+  pathPrefix: '/obsidian-template-gatsby-theme-primer-wiki/',
   flags: {
     DEV_SSR: true,
   },
