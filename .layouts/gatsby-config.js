@@ -8,6 +8,7 @@ const siteMetadata = {
   twitterName: "theowenyoung",
   imageUrl: "/graph-visualisation.jpg",
   siteUrl: "https://dsimonow.github.io/obsidian-template-gatsby-theme-primer-wiki/",
+  sidebarDefault: "auto",
 };
 module.exports = {
   siteMetadata,
