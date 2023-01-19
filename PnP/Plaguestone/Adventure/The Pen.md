@@ -1,3 +1,4 @@
+# The Pen
 Eintreffen bei Nacht Anbruch.
 Die Pflanzen sind krank und am sterben.
 
@@ -41,7 +42,7 @@ Ihr findet das Zentrum der Fäule.
 Vorher kaum auszumachen zeigen Fußspuren einen Trampelpfad zu einem Hügel.
 
 
-#### Forest Guardians
+## Forest Guardians
 Tiefer in dieser massiven Fäule nehmen die Pflanzen unnatürliche Schattierungen an, und ihre Zweige scheinen zu zittern und beben wenn etwas vorbeigeht. Vor uns befindet sich eine Wand aus dicken Dornenbüschen mit einer Art stacheliger Iris in der Mitte.
 
 Breit: 20, Hoch 18
@@ -55,7 +56,7 @@ Maximum Duration: 6 Runden.
 Stage 1: [[Stupefied]] 1(1 Runde), Stage 2: [[Stupefied]] 2(1 runde), 
 Stage 3: 1d4 mental damage, [[Stupefied]] 2 und [[Confused]] (1 runde)
 
-#### Dornen Iris
+## Dornen Iris
 Im Uhrzeiger Sinn winden sich Ranken zusammen und formen eine Iris.
 Es hat keinen Griff oder Schlüsseloch.
 DC 18 Nature, DC 23 Wahrnehmung.finden eine Ranke die gegen den Uhrzeigersinn verläuft.
@@ -63,10 +64,10 @@ DC 18 Nature, DC 23 Wahrnehmung.finden eine Ranke die gegen den Uhrzeigersinn ve
 Kann niedergehackt oder verbrannt werden.
 Hardness 5.
 
-### Der Hof
+## Der Hof
 Auf der anderen Seite der Dornenmauer befindet sich ein Hof, der von drei großen, hölzernen Käfigen und einem Becken mit blubberndem Schlamm geprägt ist. In einem der Käfige steht ein erbärmlich aussehendes Pferd, während ein anderer Käfig mit einem Schwarm riesiger Ratten gefüllt ist, die mit weißen Blasen bedeckt sind. Der dritte Stall sieht leer aus, scheint aber um eine kleine Höhle im Hang herum gebaut zu sein. Ein weiterer Höhleneingang befindet sich auf der Nordseite, in der Nähe eines der Ställe.
 
-**Encounter** 
+### **Encounter** 
 2x [[orc brute]] wenn alamiert öffnen käfige(2 Aktionen) von [[stone horse]] und 2x[[icy rat]] 
 Können überrascht werden. 
 Dann Orcs einer am Becken mit Eimer und anderer beim Pferd.
@@ -90,11 +91,12 @@ DC 15 Medicine zeigt eine Wunde
 
 Dem Leopard geht es sichtlich besser, und wird gehen.
 
-### Das Wald Labor
+## Das Wald Labor
 breite 13, höhe 11
 Teilweise Gestein steht im Weg
 Das helle Licht von draußen wird durch flackernden Fackelschein in einem schmalen, tief in den Hang geschnittenen Durchgang ersetzt. Abrupt öffnet sich der Gang zu einer weiten natürlichen Höhle, in der sich auf der anderen Seite des Raumes eine Reihe großer Tische befinden. Eine Reihe von alchemistischen Experimenten, von denen die meisten blubbern und schäumen, während sie kochen, sind auf den Arbeitsflächen angeordnet.
 
+### Encounter
 2x [[orc alchemist]]
 Tisch Random alchemy
 Kessel 3x Random Alchemy Effekt
@@ -104,19 +106,19 @@ Rewards: 20gp Alchemical Reagents
 Für jeden nicht umgeschmissenen Tisch 2x Random Alchemy.
 Alchemist kann die Kessel verwenden Random Alchemy 3x 
 
-**Das Lager**
+#### **Das Lager**
 Auf der rechten Seite der Höhle.
 Altes Alchemie Equipment. 
 100gp wenn sie wiederkommen, müssen aber nach Almas dafür.
 Oder an Delma/Tamli für 1/4.
 
-**Abfall Grube**
+#### **Abfall Grube**
 Gefüllt mit Knochen und kaputten alten Equipment.
 Findbar: ein low-grade kalter eisen dolch.
 ein wolf-zahn talisman und 8gp an münzen.
 Secret Tür aber nur mit genauer Suche des Squares.
 
-**Unterschlupf des Sculptors**
+#### **Unterschlupf des Sculptors**
 Von dem Laboratorium führen Treppen hoch zu einer massiven Doppeltürigen Pforte.
 Die massiven Türen sind grob verziert mit einem kleinen Dorf das in Flammen steht.
 Jeder der es betrachtet erkennt das es vor Jahren angebracht wurde
@@ -136,7 +138,7 @@ Altes Blut und Unrat sind im Raum und besonders den Wänden verteilt.
 Sculptor rennt zum Ooze, entfesselt es und lockt es mit Blutkonserven zu der Party.
 
 
-**rewards**
+#### **rewards**
 18gp coins, silber schuppen 30gp, Notizen auf größenteils Orkisch vom Sculptor.
 DC 15 Crafting, outline der Notizen innerhalb ner Stunde
 DC 18 Perception: vor 3 Jahren, eine Person wurde gefangen und in ein Loch gepackt und Viridian-Dunst ausgesetzt.

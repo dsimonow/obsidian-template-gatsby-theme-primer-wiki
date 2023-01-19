@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PnP/Session Shadowrun.md",
+                "file": "PnP/Plaguestone/Adventure/The Pen.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PnP/Session Shadowrun.md",
+                "file": "PnP/Plaguestone/Adventure/The Pen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "075e822ab34b24ad",
   "lastOpenFiles": [
+    "README.md",
+    "PnP/Plaguestone/Adventure/The Pen.md",
+    "PnP/Session Shadowrun.md",
     "Studium/Projektarbeit/Umsetzung.md",
     "Studium/Projektarbeit/Verwendeter Stack.md",
     "PnP/Abomination Vault/Adventure/Akt 1/Kapitel 0/Der Weg nach Otari.md",
     "PnP/Abomination Vault/Ortschaften/Otari/Fischerei.md",
     "PnP/Abomination Vault/Adventure/Akt 1/Kapitel 0/Menace Under Otari Maps.md",
     "Daily/06-01-2023.md",
-    "PnP/Abomination Vault/1. Session.md",
-    "Daily/18-01-2023.md",
-    "PnP/Abomination Vault/Adventure/Akt 1/Kapitel 1/Ebene 1 Karglicht Ruinen.md",
-    "PnP/Abomination Vault/Foes/SchnappSchnapp.md"
+    "PnP/Abomination Vault/1. Session.md"
   ]
 }
