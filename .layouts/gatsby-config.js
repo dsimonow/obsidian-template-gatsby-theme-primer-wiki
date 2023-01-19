@@ -8,7 +8,7 @@ const siteMetadata = {
   twitterName: "theowenyoung",
   imageUrl: "/graph-visualisation.jpg",
   siteUrl: "https://dsimonow.github.io/obsidian-template-gatsby-theme-primer-wiki/",
-  sidebarComponents: ["summary", "latest", "tag", "category"],
+  sidebarComponents: ["summary", "latest", "tag"],
 };
 module.exports = {
   siteMetadata,
