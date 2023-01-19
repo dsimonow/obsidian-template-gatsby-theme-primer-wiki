@@ -28,7 +28,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-primer-wiki",
       options: {
-        sidebarComponents: ["summary", "latest", "tag"],
+        sidebarComponents: ["summary", "latest", "tag", "category"],
         nav: [
           {
             title: "Github",
